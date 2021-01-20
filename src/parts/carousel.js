@@ -44,7 +44,7 @@ class Carousel extends Component{
 
       return carouselItem;
     }
-
+    
 
     setPropeties(...gambar){
       this.propeties = {images:gambar}
